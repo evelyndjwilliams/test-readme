@@ -14,7 +14,7 @@ It currently supports:
 
 A demo test showcasing each question type is available [here](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_01EWlEINsQDssVD).
 
-<img src="https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/finished-testmaker.gif" width="550" height="400">
+<img src="https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/finished-testmaker.gif" width="500" height="370">
 
 
 <br>A MUSHRA test question created using the testmaker script.
