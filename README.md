@@ -14,9 +14,10 @@ It currently supports:
 
 A demo test showcasing each question type is available [here](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_01EWlEINsQDssVD).
 
-![MUSHRA question](https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/finished-testmaker.gif)
+<img src="https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/finished-testmaker.gif" width="550" height="400">
 
-A MUSHRA test question created using the testmaker script.
+
+<br>A MUSHRA test question created using the testmaker script.
 
 # Instructions
 ## Configuration
@@ -57,17 +58,20 @@ Flags:
 
 The order of the flags will determine the order of the questions in the output test.
 
-E.g. to create a test with MUSHRA then audio transcription questions, use the command
+E.g. to create a test with MUSHRA then audio transcription questions, use the command:
 
 `python testmaker.py -mushra -trs`
 
+<img src="https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/run-testmaker.gif" width="420" height="200">
 
-![run testmaker.py](https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/run-testmaker.gif)
+<br>
 
 Running the script will create a .qsf (Qualtrics Survey Format) file called `output-survey.qsf`.
 This file can be imported to Qualtrics, and will be converted to a working listening test.
 
-![import testmaker.py](https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/import-testmaker.gif)
+<img src="https://raw.githubusercontent.com/evelyndjwilliams/readme-gifs/main/import-testmaker.gif" width="420" height="330">
+
+
 
 # Manual steps
 
